@@ -106,11 +106,6 @@ export default {
             'IS_NULL',
             'NOT_NULL',
           ],
-          /* ??? */
-          widgetProps: {
-            valueLabel: "number",
-            valuePlaceholder: "Enter number",
-          }
         }
       },
     },
