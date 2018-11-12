@@ -1,0 +1,29 @@
+.builder-wrapper {
+  position: relative;
+  display: inline-block;
+  width: auto;
+  min-width: 500px;
+}
+
+.clear-all {
+  position: absolute;
+  bottom: 30px;
+  right: 30px;
+}
+
+.group.group-or-rule {
+  padding-bottom: 40px;
+}
+
+.group--actions.group--actions--tr {
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+}
+
+.ant-btn {
+    padding: 0 7px;
+    font-size: 12px;
+    border-radius: 4px;
+    height: 22px;
+}
